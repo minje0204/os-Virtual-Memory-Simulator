@@ -87,3 +87,7 @@ To duplicate the parent's address space, set up the PTE in the child's page tabl
 
 - *THE INSTRUCTOR WILL NOT ANSWER THE QUESTIONS ABOUT THOSE ALREADY SPECIFIED ON THE HANDOUT.*
 - *QUESTIONS OVER EMAIL WILL BE IGNORED UNLESS IT CONCERNS YOUR PRIVACY.*
+
+### Referenc
+
+[김상훈교수님] (https://github.com/minje0204/os-Virtual-Memory-Simulator.git)
